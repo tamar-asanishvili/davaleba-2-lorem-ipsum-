@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    padding-left: 39px;
+    padding-right: 56px;
+}
+.h4_1{
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+
+.h4_4 {
+    margin-top: 32px;
+    margin: 0;
+}
